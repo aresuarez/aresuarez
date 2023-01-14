@@ -4,9 +4,7 @@
 
 Welcome to my Github profile! ![visitors](https://visitor-badge.glitch.me/badge?page_id=aresuarez)
 
-<!--
-<img alt="Alex's Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=aresuarez&show_icons=true&hide_border=true&&count_private=true&theme=react&include_all_commits=true"/> 
--->
+[Aresuarez's GitHub stats](https://github-readme-stats.vercel.app/api?username=aresuarez&show_icons=true&theme=radical)
 
 <h1>Skills</h1>
 
@@ -44,8 +42,7 @@ Welcome to my Github profile! ![visitors](https://visitor-badge.glitch.me/badge?
 
 <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Alex's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aresuarez&theme=react&layout=compact" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aresuarez](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
