@@ -4,8 +4,9 @@
 
 Welcome to my Github profile! ![visitors](https://visitor-badge.glitch.me/badge?page_id=aresuarez)
 
+```md
 [Aresuarez's GitHub stats](https://github-readme-stats.vercel.app/api?username=aresuarez&show_icons=true&theme=radical)
-
+```
 <h1>Skills</h1>
 
 <div>
@@ -41,8 +42,9 @@ Welcome to my Github profile! ![visitors](https://visitor-badge.glitch.me/badge?
 <details>
 
 <summary>:zap: Most Used Languages</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aresuarez](https://github.com/anuraghazra/github-readme-stats)
-
+ 
+```md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aresuarez&layout=compact)]](https://github.com/anuraghazra/github-readme-stats)
+```
 
 </details>
